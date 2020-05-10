@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "0.1.0",
+  "description": "XRPL Stream example",
+  "main": "index.js",
+  "dependencies": {
+    "ripple-lib": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xrpscanner/xrpl-stream-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xrpscanner/xrpl-stream-example/issues"
+  },
+  "homepage": "https://github.com/xrpscanner/xrpl-stream-example#readme"
+}
